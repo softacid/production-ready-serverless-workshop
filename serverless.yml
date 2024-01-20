@@ -26,7 +26,6 @@ custom:
 
 provider:
   name: aws
-  profile: 'serverless'
   runtime: nodejs18.x
   
   
